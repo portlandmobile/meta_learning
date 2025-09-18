@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/*
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules and build artifacts
+node_modules/
+dist/
+*.log
+
+*.mhtml
+
+# Environment files (never commit API keys!)
+.venv/bin
+.venv/lib
+.venv/shared
+.venv/include

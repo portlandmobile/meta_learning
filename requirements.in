@@ -1,0 +1,4 @@
+tensorflow
+opencv-python-headless
+pandas==1.5.3
+
